@@ -2,10 +2,4 @@ Git is a version control system.
 Creating a new branch is quick and simple.
 Add new information.
 dev added and master add.
-add sth.
-master 1
-master 2
-master 3
-master 4
-master 5
-
+master change 1
