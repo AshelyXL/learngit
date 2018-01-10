@@ -3,3 +3,4 @@ Creating a new branch is quick and simple.
 Add new information.
 dev added and master add.
 master change 1
+branch change 1
